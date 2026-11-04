@@ -1,4 +1,4 @@
-# Travel Booking Clustering
+# Travel Booking Clustering | [View Code](https://github.com/Matsalak-Viktoria/Product-Recommendation-Prediction/blob/main/Product_Recommendation_Prediction.ipynb)
 
 This project is currently available as a Jupyter Notebook in Ukrainian. An English translation is planned.
 
